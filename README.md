@@ -1,0 +1,2 @@
+# AI-Customer-Segmentation-Project
+This project aims to develop an AI-driven system to segment retail customers based on purchasing behavior, allowing for personalized product recommendations to improve customer engagement and increase sales
